@@ -1,0 +1,2 @@
+INSTALLATION:
+Drop the two files into: /Library/Application Support/Apple/Developer Tools/Specifications

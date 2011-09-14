@@ -1,0 +1,15 @@
+/*
+	ActionScript source file specs.
+ */
+
+(
+    {
+      Identifier = sourcecode.actionscript;
+      BasedOn = sourcecode;
+      Name = "ActionScript Files";
+      Extensions = (as, actionscript);
+      MIMETypes = ("text/actionscript");
+      ComputerLanguage = actionscript;
+      IsTextFile = YES;
+    }
+)
